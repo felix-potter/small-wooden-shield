@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="82.03937 53.692915 1026.4725 1196.5512" width="1026.4725" height="1196.5512">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="DimensionArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -8 13 16" markerWidth="13" markerHeight="16" color="#3030c7">
+      <g>
+        <path d="M 0 0 L 10.666667 0 M 10.666667 6.666667 L 10.666667 -6.666667 M 0 2.6666667 L 9.333333 0 L 0 -2.6666667" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="DimensionArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-12 -8 13 16" markerWidth="13" markerHeight="16" color="#3030c7">
+      <g>
+        <path d="M 0 0 L -10.666667 0 M -10.666667 -6.666667 L -10.666667 6.666667 M 0 -2.6666667 L -9.333333 0 L 0 2.6666667" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Shield" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1">
+    <title>Shield</title>
+    <g id="Shield_Outline">
+      <title>Outline</title>
+      <g id="Graphic_3">
+        <title>Shield</title>
+        <path d="M 170.07874 56.692915 C 198.4252 56.692915 992.126 56.692915 1020.4725 56.692915 C 1048.8189 56.692915 1062.9922 56.692915 1077.1654 85.03937 C 1091.3386 113.38583 1162.2048 481.8898 1006.2992 822.0473 C 850.3937 1162.2048 666.14175 1247.2441 595.2756 1247.2441 C 524.40946 1247.2441 340.1575 1162.2048 184.25197 822.0473 C 28.346457 481.8898 99.2126 113.38583 113.38583 85.03937 C 127.55906 56.692915 141.73229 56.692915 170.07874 56.692915 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g id="Shield_Dimensions">
+      <title>Dimensions</title>
+      <g id="Line_5">
+        <line x1="595.2756" y1="120.69291" x2="595.2756" y2="1183.2441" marker-end="url(#DimensionArrow_Marker)" marker-start="url(#DimensionArrow_Marker_2)" stroke="#3030c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 522.23623 667.46295 L 668.315 667.46295 C 674.9424 667.46295 680.315 672.8355 680.315 679.46295 L 680.315 712.1559 C 680.315 718.7833 674.9424 724.1559 668.315 724.1559 L 522.23623 724.1559 C 515.6088 724.1559 510.23623 718.7833 510.23623 712.1559 L 510.23623 679.46295 C 510.23623 672.8355 515.6088 667.46295 522.23623 667.46295 Z" fill="#3030c7"/>
+        <text transform="translate(535.68186 676.8094)" fill="white">
+          <tspan font-family="Helvetica" font-weight="bold" font-size="32" fill="white" x="0" y="31">420 mm</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="149.03937" y1="325.98426" x2="1041.5118" y2="325.98426" marker-end="url(#DimensionArrow_Marker)" marker-start="url(#DimensionArrow_Marker_2)" stroke="#3030c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 298.283 297.6378 L 444.36173 297.6378 C 450.98914 297.6378 456.3617 303.0104 456.3617 309.6378 L 456.3617 342.3307 C 456.3617 348.95814 450.98914 354.3307 444.36173 354.3307 L 298.283 354.3307 C 291.65557 354.3307 286.28298 348.95814 286.28298 342.3307 L 286.28298 309.6378 C 286.28298 303.0104 291.65557 297.6378 298.283 297.6378 Z" fill="#3030c7"/>
+        <text transform="translate(311.7286 306.98426)" fill="white">
+          <tspan font-family="Helvetica" font-weight="bold" font-size="32" fill="white" x="0" y="31">360 mm</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
