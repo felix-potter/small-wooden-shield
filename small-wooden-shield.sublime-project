@@ -2,7 +2,7 @@
 	"folders": [
 		{
 			"path": 					".",
-			"file_exclude_patterns":	[ "*.sublime-*", ".git*", "*.jpg", "*.pdf" ]
+			"file_exclude_patterns":	[ "*.sublime-*", ".git*", "*.jpg", "*.png", "*.pdf" ]
 		}
 	],
 }
