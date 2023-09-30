@@ -1,1 +1,1 @@
-# Wooden shield
+# Small wooden shield
